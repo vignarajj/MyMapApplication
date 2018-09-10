@@ -11,4 +11,7 @@ compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
 compile 'com.squareup.okio:okio:1.9.0'
 compile 'com.appolica:flubber:1.0.1'  
 compile 'com.squareup.picasso:picasso:2.5.2'
+
+
+
 Use your own Google Map key, here I blocked.
